@@ -1,7 +1,7 @@
 package com.takeaway.eventservice.kafka.utils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.takeaway.eventservice.kafka.EmployeeEvent;
+import com.takeaway.eventservice.kafka.events.EmployeeEvent;
 import org.apache.kafka.common.serialization.Deserializer;
 
 import java.io.IOException;

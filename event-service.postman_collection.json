@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "event-service",
+		"_postman_id": "d3bbc75b-de33-5f8a-1468-5f861f05c7e6",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get events by id",
+			"request": {
+				"url": "localhost:9090/events/employees/90f0cc5d-d8b5-47a6-be74-0d9fd62a8e49",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
